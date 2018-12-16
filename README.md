@@ -5,4 +5,5 @@ Contents:
 
 1. zucker-marginal-survival-02DEC18.pdf = manuscript presenting the methods
 2. marginal-surv-siml-final-03DEC18.r = R code for running the simulations reported in the manuscript
-3. margsurv.r = R function for running the method on a set of data
+3. simsum.r = program for collating simulation results  and generating summaries
+4. margsurv.r = R function for running the method on a set of data
